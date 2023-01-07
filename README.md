@@ -1,4 +1,5 @@
 📝 Descrição
+
 Este é um jogo simples, criado seguindo um tutorial canal https://www.youtube.com/c/chriscourses , entitulado "JavaScript Fighting Game Tutorial with HTML Canvas".
 No projeto original, Crhis usou apenas HTML e JavaScript. Me permiti um desafio a mais e separei todo o css do código em um documento separado.
 Ele pode ser jogado por duas pessoas e tem controles muito simples.
