@@ -30,8 +30,7 @@ JavaScript;
 
 🚀 Rodando o projeto
 
-Basta clicar no link e roda-lo remotamente ou fazer download do projeto.
-Não precisa de nenhuma instalação adicional ou plugin extra.
+Basta clonar o repositório e rodar localmente.
 
 🔜 Implementação futura
 
